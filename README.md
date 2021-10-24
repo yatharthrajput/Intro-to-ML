@@ -1,2 +1,8 @@
 # Intro-to-ML
-This repo will give you a brief idea about the lib used in ML. &lt;br>1.Numpy&lt;br> 2.Matplotlib &lt;br>3.Pandas
+This repo will give you a brief idea about the lib used in ML. 
+1.Numpy
+2.Matplotlib
+3.Pandas
+4.Seaborn
+5.OpenCV
+
